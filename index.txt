@@ -2,7 +2,7 @@
 2:I[4350,[],""]
 3:I[7652,[],""]
 4:I[5135,[],"ClientPageRoot"]
-5:I[8493,["974","static/chunks/app/page-4afa624daced84df.js"],"default"]
+5:I[8493,["974","static/chunks/app/page-portfolio-works-06-07.js"],"default"]
 8:I[4263,[],"OutletBoundary"]
 9:"$Sreact.suspense"
 b:I[4263,[],"ViewportBoundary"]
